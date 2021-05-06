@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "email.marinacademymusic.org",
+  "Id": "327b4ef1-fe4f-4192-88b9-c68daa924d9c"
+}
