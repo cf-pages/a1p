@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 的域所有权验证文件 - 放置在网站根目录中",
+  "Domain": "mails.brookdalechristianchurch.org",
+  "Id": "c64c22c9-7b4e-4bdd-9e57-48e2834caa8d"
+}
