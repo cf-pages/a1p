@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ms.brookdalechristianchurch.org",
+  "Id": "29a745ed-cb8d-4749-815f-e1ebd50e768d"
+}
