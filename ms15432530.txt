@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "xu.ygaventures.org",
+  "Id": "83b4f05a-b1bc-489e-90ab-48655e70f38c"
+}
